@@ -82,7 +82,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  ""
- \033[1;93m •••••••••Welcome To Gidonseven••••••••••••
+\033[1;93m •••••••••Welcome To Gidonseven••••••••••••
 \033[1;97m••••••••••••\033[1;93mGidonseven\033[1;97m•••••••••••••••
 \033[1;97mAuthor\033[1;97m    :•••••••••••\033[1;97mGidon seven
 \033[1;97mGidonseven\033[1;97m:••••••••••• \033[1;97▒▓██████████████ 100%
