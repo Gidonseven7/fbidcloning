@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To Gidonseven
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -77,8 +77,8 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  ""
- \033[1;93m •••••••••Welcome To Gidonseven••••••••••••
+print  """
+\033[1;93m••••••••••••Welcome To Gidonseven••••••••••••
 \033[1;97m••••••••••••\033[1;93mGidonseven\033[1;97m•••••••••••••••
 \033[1;97mAuthor\033[1;97m    :•••••••••••\033[1;97mGidon seven
 \033[1;97mGidonseven\033[1;97m:••••••••••• \033[1;97▒▓██████████████ 100%
@@ -405,7 +405,7 @@ def pilih_super():
 	print '\033[1;93mProcess Has Been Completed\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print ""
-             ..▂▄▅█████▅▄▃▂
+             ▂▄▅█████▅▄▃▂
              ███████████████
 •••••••••••••••••••••••••••••••••••••••••.
 : \033[1;97m ••••••Gidonseven••••••• \033[1;93m :
