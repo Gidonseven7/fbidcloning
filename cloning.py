@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:Gidon_seven
+#Dev:black_vipertech
 ##### LOGO #####
 logo = """
 \033[1;97m 
@@ -63,7 +63,7 @@ logo = """
 █─▄▄▄▄█▄─▄▄─█▄─█─▄█▄─▄▄─█▄─▀█▄─▄█
 █▄▄▄▄─██─▄█▀██▄▀▄███─▄█▀██─█▄▀─██
 ▀▄▄▄▄▄▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀
-\033[1;93m ••••••••••••• \033[1;97m●Gidonseven●\033[1;93m••••••••••"""
+\033[1;93m ••••••••••••• \033[1;97m●blackvipertech●\033[1;93m••••••••••"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -82,18 +82,18 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;93m•••••••••Welcome To Gidonseven••••••••••••
-\033[1;97m••••••••••••\033[1;93mGidonseven\033[1;97m•••••••••••••••
+\033[1;93m•••••••••Welcome To blackvipertech••••••••••••
+\033[1;97m••••••••••••\033[1;93mblackviperza\033[1;97m•••••••••••••••
 \033[1;97mAuthor\033[1;97m    :•••••••••••\033[1;97mGidon seven
 \033[1;97mGidonseven\033[1;97m:••••••••••• \033[1;97▒▓██████████████ 100%
 \033[1;93mFacebook\033[1;93m  :•••••••• \033[1;93mGidon seven
-\033[1;93m••••••••••\033[1;97mGidonseven\033[1;93m•••••••••••••••"""
-jalan('\033[1;97m••••••••••••••••Gidonseven••••••••••••••••••••••••:')
+\033[1;93m••••••••••\033[1;97mblackviperza\033[1;93m•••••••••••••••"""
+jalan('\033[1;97m••••••••••••••••blackvipertechza••••••••••••••••••••••••:')
 
 print "\033[1;93m •••••••••••••••••••••••••••••••••\033[1;97mLogin Gidonseven\033[1;93m••••••••••••••"
 
-CorrectUsername = "Gidonseven"
-CorrectPassword = "Gidonseven"
+CorrectUsername = "blackvipertech"
+CorrectPassword = "blackvipertech275"
 
 loop = 'true'
 while (loop == 'true'):
